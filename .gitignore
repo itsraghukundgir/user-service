@@ -31,6 +31,14 @@ target/
 *.iml
 *.ipr
 
+# Mac / System
+.DS_Store
+*.log
+
+# Environment
+.env
+/secrets/
+
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
